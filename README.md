@@ -9,7 +9,7 @@ A responsive web application built to calculate student marks, percentages, grad
 
 🌐 Live Demo
 
-Launch Student Grade Calculator
+[🚀 Launch Student Grade Calculator](https://sailokesh121.github.io/-student-grade-calculator/)
 
 ✨ Features
 
