@@ -36,9 +36,12 @@ Launch Student Grade Calculator
 
 * index.html — website structure, styling, and functionality
 * README.md — project documentation
-
 👨‍💻 Author
 
 Sai Lokesh Mechineni
 
 GitHub: @sailokesh121
+
+## 📸 Project Screenshot
+
+![Student Grade Calculator](./DD22D573-1146-4966-9BA7-77DAB5DF5179.png)
