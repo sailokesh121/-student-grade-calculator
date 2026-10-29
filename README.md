@@ -2,6 +2,11 @@
 
 A responsive web application built to calculate student marks, percentages, grades, and pass/fail status.
 
+![HTML5](https://img.shields.io/badge/HTML5-orange)
+![CSS3](https://img.shields.io/badge/CSS3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![GitHub Pages](https://img.shields.io/badge/Deployed-GitHub%20Pages-green)
+
 🌐 Live Demo
 
 Launch Student Grade Calculator
